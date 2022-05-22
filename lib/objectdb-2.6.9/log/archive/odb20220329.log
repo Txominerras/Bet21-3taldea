@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-29 11:27:26 #1 store] 
+Database 'D:\git\Bet21\Bets21\src\main\resources\bets.temp' is opened by 12436@LAPTOP-PFPBTTRT
+
+[2022-03-29 11:28:01 #2 store] 
+Database 'D:\git\Bet21\Bets21\src\main\resources\bets.temp' is closed by 12436@LAPTOP-PFPBTTRT
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-29 11:38:21 #1 store] 
+Database 'D:\git\Bet21\Bets21\src\main\resources\bets.temp' has been recovered (tr. 15-17)
+
+[2022-03-29 11:38:21 #2 store] 
+Database 'D:\git\Bet21\Bets21\src\main\resources\bets.temp' is opened by 14836@LAPTOP-PFPBTTRT
+
+[2022-03-29 11:39:00 #3 store] 
+Database 'D:\git\Bet21\Bets21\src\main\resources\bets.temp' is closed by 14836@LAPTOP-PFPBTTRT
+

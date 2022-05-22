@@ -1,0 +1,69 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-21 13:09:38 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 8440@LAPTOP-PFPBTTRT
+
+[2022-02-21 13:09:39 #2 type.registry] 
+New type domain.Question
+
+[2022-02-21 13:09:39 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-21 13:09:39 #4 type.registry] 
+New type domain.Event
+
+[2022-02-21 13:09:39 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-21 13:09:39 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-21 13:09:39 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-21 13:10:18 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 8392@LAPTOP-PFPBTTRT
+
+[2022-02-21 13:10:18 #2 type.registry] 
+New type domain.Question
+
+[2022-02-21 13:10:18 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-21 13:10:18 #4 type.registry] 
+New type domain.Event
+
+[2022-02-21 13:10:18 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-21 13:10:18 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-21 13:10:18 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-21 13:10:37 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 6228@LAPTOP-PFPBTTRT
+
+[2022-02-21 13:10:38 #2 type.registry] 
+New type domain.Question
+
+[2022-02-21 13:10:38 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-21 13:10:38 #4 type.registry] 
+New type domain.Event
+
+[2022-02-21 13:10:38 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-21 13:10:38 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-21 13:10:38 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

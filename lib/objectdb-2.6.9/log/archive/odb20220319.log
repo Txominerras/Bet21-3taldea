@@ -1,0 +1,53 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-19 16:51:36 #1 explorer] 
+[ObjectDB 2.6.9] javax.persistence.PersistenceException
+Attempt to open a database file 'D:\workspace eclipse\2Marroia\2marroia2\flights5.odb' that is currently in use by another process (error 141)
+	at com.objectdb.Explorer$1.run(Explorer.java:57)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:316)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:391)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Caused by: com.objectdb.o.UserException: Attempt to open a database file 'D:\workspace eclipse\2Marroia\2marroia2\flights5.odb' that is currently in use by another process
+	at com.objectdb.o.MSG.d(MSG.java:62)
+	at com.objectdb.o.LFL.G(LFL.java:939)
+	at com.objectdb.o.LFL.B(LFL.java:885)
+	at com.objectdb.o.LFL.B(LFL.java:794)
+	at com.objectdb.o.SFL.<init>(SFL.java:235)
+	at com.objectdb.o.MST.<init>(MST.java:123)
+	at com.objectdb.o.MST.aN(MST.java:105)
+	at com.objectdb.o.MSF.Vn(MSF.java:188)
+	at com.objectdb.o.OMF.an(OMF.java:779)
+	at com.objectdb.jpa.EMF.an(EMF.java:131)
+	at com.objectdb.o.OMF.am(OMF.java:690)
+	at com.objectdb.jpa.EMF.createEntityManager(EMF.java:150)
+	... 16 more
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-19 16:51:48 #1 store] 
+Database 'D:\workspace eclipse\2Marroia\2marroia2\flights5.odb' is opened by 13860@LAPTOP-PFPBTTRT
+
+[2022-03-19 16:52:03 #2 store] 
+Database 'D:\workspace eclipse\2Marroia\2marroia2\flights5.odb' is closed by 13860@LAPTOP-PFPBTTRT
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-03-19 17:44:55 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-11)
+
+[2022-03-19 17:44:55 #2 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 11752@LAPTOP-PFPBTTRT
+
+[2022-03-19 17:45:16 #3 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is closed by 11752@LAPTOP-PFPBTTRT
+

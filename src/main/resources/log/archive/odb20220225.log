@@ -1,0 +1,907 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 11:37:04 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 12240@LAPTOP-PFPBTTRT
+
+[2022-02-25 11:37:04 #2 type.registry] 
+New type domain.Question
+
+[2022-02-25 11:37:04 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 11:37:04 #4 type.registry] 
+New type domain.Event
+
+[2022-02-25 11:37:04 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 11:37:04 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-25 11:37:04 #7 type.registry] 
+New type domain.User
+
+[2022-02-25 11:37:04 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-02-25 11:37:04 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 11:39:23 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 12592@LAPTOP-PFPBTTRT
+
+[2022-02-25 11:39:23 #2 type.registry] 
+New type domain.Question
+
+[2022-02-25 11:39:23 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 11:39:23 #4 type.registry] 
+New type domain.Event
+
+[2022-02-25 11:39:23 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 11:39:24 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-25 11:39:24 #7 type.registry] 
+New type domain.User
+
+[2022-02-25 11:39:24 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-02-25 11:39:24 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 11:39:47 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 10220@LAPTOP-PFPBTTRT
+
+[2022-02-25 11:39:47 #2 type.registry] 
+New type domain.Question
+
+[2022-02-25 11:39:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 11:39:48 #4 type.registry] 
+New type domain.Event
+
+[2022-02-25 11:39:48 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 11:39:48 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-25 11:39:48 #7 type.registry] 
+New type domain.User
+
+[2022-02-25 11:39:48 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-02-25 11:39:48 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 11:47:51 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 15416@LAPTOP-PFPBTTRT
+
+[2022-02-25 11:47:51 #2 type.registry] 
+New type domain.Question
+
+[2022-02-25 11:47:51 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 11:47:51 #4 type.registry] 
+New type domain.Event
+
+[2022-02-25 11:47:51 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 11:47:51 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-25 11:47:51 #7 type.registry] 
+New type domain.User
+
+[2022-02-25 11:47:51 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-02-25 11:47:51 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 12:02:28 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 10396@LAPTOP-PFPBTTRT
+
+[2022-02-25 12:02:28 #2 type.registry] 
+New type domain.Question
+
+[2022-02-25 12:02:28 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 12:02:28 #4 type.registry] 
+New type domain.Event
+
+[2022-02-25 12:02:28 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 12:02:28 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-25 12:02:28 #7 type.registry] 
+New type domain.User
+
+[2022-02-25 12:02:28 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-02-25 12:02:28 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 12:05:54 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 11884@LAPTOP-PFPBTTRT
+
+[2022-02-25 12:05:55 #2 type.registry] 
+New type domain.Question
+
+[2022-02-25 12:05:55 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 12:05:55 #4 type.registry] 
+New type domain.Event
+
+[2022-02-25 12:05:55 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 12:05:55 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-25 12:05:55 #7 type.registry] 
+New type domain.User
+
+[2022-02-25 12:05:55 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-02-25 12:05:55 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 12:07:24 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 1560@LAPTOP-PFPBTTRT
+
+[2022-02-25 12:07:24 #2 type.registry] 
+New type domain.Question
+
+[2022-02-25 12:07:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 12:07:24 #4 type.registry] 
+New type domain.Event
+
+[2022-02-25 12:07:24 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 12:07:24 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-25 12:07:24 #7 type.registry] 
+New type domain.User
+
+[2022-02-25 12:07:24 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-02-25 12:07:24 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 12:11:11 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 7272@LAPTOP-PFPBTTRT
+
+[2022-02-25 12:11:11 #2 type.registry] 
+New type domain.Question
+
+[2022-02-25 12:11:11 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 12:11:11 #4 type.registry] 
+New type domain.Event
+
+[2022-02-25 12:11:11 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 12:11:11 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-25 12:11:11 #7 type.registry] 
+New type domain.User
+
+[2022-02-25 12:11:11 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-02-25 12:11:11 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 12:12:11 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 9472@LAPTOP-PFPBTTRT
+
+[2022-02-25 12:12:12 #2 type.registry] 
+New type domain.Question
+
+[2022-02-25 12:12:12 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 12:12:12 #4 type.registry] 
+New type domain.Event
+
+[2022-02-25 12:12:12 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 12:12:12 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-25 12:12:12 #7 type.registry] 
+New type domain.User
+
+[2022-02-25 12:12:12 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-02-25 12:12:12 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 12:21:57 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 5300@LAPTOP-PFPBTTRT
+
+[2022-02-25 12:21:57 #2 type.registry] 
+New type domain.Question
+
+[2022-02-25 12:21:57 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 12:21:57 #4 type.registry] 
+New type domain.Event
+
+[2022-02-25 12:21:57 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 12:21:57 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-25 12:21:57 #7 type.registry] 
+New type domain.User
+
+[2022-02-25 12:21:57 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-02-25 12:21:57 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 15:13:26 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 8332@LAPTOP-PFPBTTRT
+
+[2022-02-25 15:13:26 #2 type.registry] 
+New type domain.Question
+
+[2022-02-25 15:13:26 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 15:13:26 #4 type.registry] 
+New type domain.Event
+
+[2022-02-25 15:13:26 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 15:13:26 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-25 15:13:26 #7 type.registry] 
+New type domain.User
+
+[2022-02-25 15:13:26 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-02-25 15:13:26 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 15:14:30 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 10024@LAPTOP-PFPBTTRT
+
+[2022-02-25 15:14:30 #2 type.registry] 
+New type domain.Question
+
+[2022-02-25 15:14:30 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 15:14:30 #4 type.registry] 
+New type domain.Event
+
+[2022-02-25 15:14:30 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 15:14:30 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-25 15:14:30 #7 type.registry] 
+New type domain.User
+
+[2022-02-25 15:14:30 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-02-25 15:14:30 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 15:15:25 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 7548@LAPTOP-PFPBTTRT
+
+[2022-02-25 15:15:25 #2 type.registry] 
+New type domain.Question
+
+[2022-02-25 15:15:25 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 15:15:25 #4 type.registry] 
+New type domain.Event
+
+[2022-02-25 15:15:25 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 15:15:25 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-25 15:15:26 #7 type.registry] 
+New type domain.User
+
+[2022-02-25 15:15:26 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-02-25 15:15:26 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 15:18:35 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 7828@LAPTOP-PFPBTTRT
+
+[2022-02-25 15:18:36 #2 type.registry] 
+New type domain.Question
+
+[2022-02-25 15:18:36 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 15:18:36 #4 type.registry] 
+New type domain.Event
+
+[2022-02-25 15:18:36 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 15:18:36 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-25 15:18:36 #7 type.registry] 
+New type domain.User
+
+[2022-02-25 15:18:36 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-02-25 15:18:36 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 15:31:02 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-7)
+
+[2022-02-25 15:31:02 #2 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 6444@LAPTOP-PFPBTTRT
+
+[2022-02-25 15:31:02 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 15:31:02 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 15:31:02 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 15:32:57 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 5100@LAPTOP-PFPBTTRT
+
+[2022-02-25 15:32:57 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 15:32:57 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 15:32:57 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 15:35:33 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 8872@LAPTOP-PFPBTTRT
+
+[2022-02-25 15:35:33 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 15:35:33 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 15:35:33 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 15:36:32 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 7936@LAPTOP-PFPBTTRT
+
+[2022-02-25 15:36:33 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 15:36:33 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 15:36:33 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 15:37:32 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 5404@LAPTOP-PFPBTTRT
+
+[2022-02-25 15:37:32 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 15:37:32 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 15:37:32 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 15:39:18 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 8120@LAPTOP-PFPBTTRT
+
+[2022-02-25 15:39:18 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 15:39:18 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 15:39:18 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 16:02:29 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 6124@LAPTOP-PFPBTTRT
+
+[2022-02-25 16:02:29 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 16:02:29 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 16:02:29 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 16:02:58 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 15908@LAPTOP-PFPBTTRT
+
+[2022-02-25 16:02:58 #2 type.registry] 
+New type domain.Question
+
+[2022-02-25 16:02:58 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 16:02:58 #4 type.registry] 
+New type domain.Event
+
+[2022-02-25 16:02:58 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 16:02:58 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-25 16:02:58 #7 type.registry] 
+New type domain.User
+
+[2022-02-25 16:02:58 #8 type] 
+Type domain.User is not enhanced.
+
+[2022-02-25 16:02:58 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 16:03:31 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 3280@LAPTOP-PFPBTTRT
+
+[2022-02-25 16:03:31 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 16:03:31 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 16:03:31 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 16:07:20 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 9848@LAPTOP-PFPBTTRT
+
+[2022-02-25 16:07:20 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 16:07:20 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 16:07:20 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 16:09:51 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 14608@LAPTOP-PFPBTTRT
+
+[2022-02-25 16:09:51 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 16:09:51 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 16:09:51 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 16:11:28 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 4540@LAPTOP-PFPBTTRT
+
+[2022-02-25 16:11:28 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 16:11:28 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 16:11:28 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 18:20:05 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 5808@LAPTOP-PFPBTTRT
+
+[2022-02-25 18:20:05 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 18:20:05 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 18:20:05 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 18:23:57 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 2776@LAPTOP-PFPBTTRT
+
+[2022-02-25 18:23:57 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 18:23:57 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 18:23:57 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 19:30:14 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 4620@LAPTOP-PFPBTTRT
+
+[2022-02-25 19:30:14 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 19:30:14 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 19:30:14 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 19:32:35 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 10584@LAPTOP-PFPBTTRT
+
+[2022-02-25 19:32:36 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 19:32:36 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 19:32:36 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 19:33:50 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 1968@LAPTOP-PFPBTTRT
+
+[2022-02-25 19:33:50 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 19:33:50 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 19:33:50 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 22:20:14 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 7-8)
+
+[2022-02-25 22:20:14 #2 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 7868@LAPTOP-PFPBTTRT
+
+[2022-02-25 22:20:14 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 22:20:14 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 22:20:14 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 22:20:31 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 11420@LAPTOP-PFPBTTRT
+
+[2022-02-25 22:20:31 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 22:20:31 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 22:20:31 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 22:26:47 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 9-10)
+
+[2022-02-25 22:26:47 #2 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 8044@LAPTOP-PFPBTTRT
+
+[2022-02-25 22:26:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 22:26:47 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 22:26:47 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 22:28:49 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 13060@LAPTOP-PFPBTTRT
+
+[2022-02-25 22:28:50 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 22:28:50 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 22:28:50 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 22:32:17 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 15432@LAPTOP-PFPBTTRT
+
+[2022-02-25 22:32:17 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 22:32:17 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 22:32:17 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 22:33:54 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 11-11)
+
+[2022-02-25 22:33:54 #2 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 9144@LAPTOP-PFPBTTRT
+
+[2022-02-25 22:33:55 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 22:33:55 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 22:33:55 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 22:34:26 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 12-12)
+
+[2022-02-25 22:34:26 #2 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 13044@LAPTOP-PFPBTTRT
+
+[2022-02-25 22:34:26 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 22:34:26 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 22:34:26 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 22:37:18 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 1336@LAPTOP-PFPBTTRT
+
+[2022-02-25 22:37:18 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 22:37:18 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 22:37:18 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 22:54:39 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 3728@LAPTOP-PFPBTTRT
+
+[2022-02-25 22:54:40 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 22:54:40 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 22:54:40 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 22:57:41 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 11980@LAPTOP-PFPBTTRT
+
+[2022-02-25 22:57:42 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 22:57:42 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 22:57:42 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 23:08:48 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 6356@LAPTOP-PFPBTTRT
+
+[2022-02-25 23:08:48 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 23:08:48 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 23:08:48 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 23:20:29 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 13-13)
+
+[2022-02-25 23:20:29 #2 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 15064@LAPTOP-PFPBTTRT
+
+[2022-02-25 23:20:29 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 23:20:29 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 23:20:29 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 23:29:31 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 14-18)
+
+[2022-02-25 23:29:31 #2 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 16220@LAPTOP-PFPBTTRT
+
+[2022-02-25 23:29:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 23:29:31 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 23:29:31 #5 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 23:35:43 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 2176@LAPTOP-PFPBTTRT
+
+[2022-02-25 23:35:43 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 23:35:43 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 23:35:43 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 23:40:07 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 14396@LAPTOP-PFPBTTRT
+
+[2022-02-25 23:40:08 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 23:40:08 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 23:40:08 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-25 23:49:54 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 21-22)
+
+[2022-02-25 23:49:54 #2 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 2944@LAPTOP-PFPBTTRT
+
+[2022-02-25 23:49:54 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-25 23:49:54 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-25 23:49:54 #5 type] 
+Type domain.User is not enhanced.
+

@@ -1,0 +1,1459 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 12:06:18 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 9084@LAPTOP-PFPBTTRT
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 12:11:23 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 15336@LAPTOP-PFPBTTRT
+
+[2022-04-26 12:11:23 #2 type.registry] 
+New type domain.Question
+
+[2022-04-26 12:11:23 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 12:11:23 #4 type.registry] 
+New type domain.Cuote
+
+[2022-04-26 12:11:23 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-04-26 12:11:23 #6 type.registry] 
+New type domain.Event
+
+[2022-04-26 12:11:23 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 12:11:23 #8 type.registry] 
+New type domain.Bet
+
+[2022-04-26 12:11:23 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-04-26 12:11:23 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 12:11:23 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-04-26 12:11:23 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 12:11:23 #13 type.registry] 
+New type domain.User
+
+[2022-04-26 12:11:23 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 12:11:23 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-04-26 12:11:23 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 12:11:23 #17 type.registry] 
+New type domain.Transaction
+
+[2022-04-26 12:11:23 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-04-26 12:11:23 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 12:11:23 #20 type.registry] 
+New type domain.Admin
+
+[2022-04-26 12:11:23 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-04-26 12:11:23 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-04-26 12:11:23 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 12:13:55 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 7204@LAPTOP-PFPBTTRT
+
+[2022-04-26 12:13:56 #2 type.registry] 
+New type domain.Question
+
+[2022-04-26 12:13:56 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 12:13:56 #4 type.registry] 
+New type domain.Cuote
+
+[2022-04-26 12:13:56 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-04-26 12:13:56 #6 type.registry] 
+New type domain.Event
+
+[2022-04-26 12:13:56 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 12:13:56 #8 type.registry] 
+New type domain.Bet
+
+[2022-04-26 12:13:56 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-04-26 12:13:56 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 12:13:56 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-04-26 12:13:56 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 12:13:56 #13 type.registry] 
+New type domain.User
+
+[2022-04-26 12:13:56 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 12:13:56 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-04-26 12:13:56 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 12:13:56 #17 type.registry] 
+New type domain.Transaction
+
+[2022-04-26 12:13:56 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-04-26 12:13:56 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 12:13:56 #20 type.registry] 
+New type domain.Admin
+
+[2022-04-26 12:13:56 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-04-26 12:13:56 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-04-26 12:13:56 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 12:15:27 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 4384@LAPTOP-PFPBTTRT
+
+[2022-04-26 12:15:27 #2 type.registry] 
+New type domain.Question
+
+[2022-04-26 12:15:27 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 12:15:27 #4 type.registry] 
+New type domain.Cuote
+
+[2022-04-26 12:15:27 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-04-26 12:15:27 #6 type.registry] 
+New type domain.Event
+
+[2022-04-26 12:15:27 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 12:15:27 #8 type.registry] 
+New type domain.Bet
+
+[2022-04-26 12:15:27 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-04-26 12:15:27 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 12:15:27 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-04-26 12:15:27 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 12:15:27 #13 type.registry] 
+New type domain.User
+
+[2022-04-26 12:15:27 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 12:15:27 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-04-26 12:15:27 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 12:15:27 #17 type.registry] 
+New type domain.Transaction
+
+[2022-04-26 12:15:27 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-04-26 12:15:27 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 12:15:27 #20 type.registry] 
+New type domain.Admin
+
+[2022-04-26 12:15:27 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-04-26 12:15:27 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-04-26 12:15:27 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 14:33:05 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 4888@LAPTOP-PFPBTTRT
+
+[2022-04-26 14:33:05 #2 type.registry] 
+New type domain.Question
+
+[2022-04-26 14:33:05 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 14:33:05 #4 type.registry] 
+New type domain.Cuote
+
+[2022-04-26 14:33:05 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-04-26 14:33:05 #6 type.registry] 
+New type domain.Event
+
+[2022-04-26 14:33:05 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 14:33:05 #8 type.registry] 
+New type domain.Bet
+
+[2022-04-26 14:33:05 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-04-26 14:33:05 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 14:33:05 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-04-26 14:33:05 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 14:33:06 #13 type.registry] 
+New type domain.User
+
+[2022-04-26 14:33:06 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 14:33:06 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-04-26 14:33:06 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 14:33:06 #17 type.registry] 
+New type domain.Transaction
+
+[2022-04-26 14:33:06 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-04-26 14:33:06 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 14:33:06 #20 type.registry] 
+New type domain.Admin
+
+[2022-04-26 14:33:06 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-04-26 14:33:06 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-04-26 14:33:06 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 18:31:40 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-13)
+
+[2022-04-26 18:31:40 #2 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 17816@LAPTOP-PFPBTTRT
+
+[2022-04-26 18:31:41 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 18:31:41 #4 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 18:31:41 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 18:31:41 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 18:31:41 #7 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 18:31:41 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 18:31:41 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 18:31:41 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 18:36:39 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' has been recovered (tr. 14-15)
+
+[2022-04-26 18:36:39 #2 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 7024@LAPTOP-PFPBTTRT
+
+[2022-04-26 18:36:40 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 18:36:40 #4 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 18:36:40 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 18:36:40 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 18:36:40 #7 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 18:36:40 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 18:36:40 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 18:36:40 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 18:54:03 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' has been recovered (tr. 16-21)
+
+[2022-04-26 18:54:03 #2 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 12920@LAPTOP-PFPBTTRT
+
+[2022-04-26 18:54:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 18:54:03 #4 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 18:54:03 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 18:54:04 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 18:54:04 #7 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 18:54:04 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 18:54:04 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 18:54:04 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 19:03:03 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 18324@LAPTOP-PFPBTTRT
+
+[2022-04-26 19:03:03 #2 type.registry] 
+New type domain.Question
+
+[2022-04-26 19:03:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 19:03:03 #4 type.registry] 
+New type domain.Cuote
+
+[2022-04-26 19:03:03 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-04-26 19:03:03 #6 type.registry] 
+New type domain.Event
+
+[2022-04-26 19:03:03 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 19:03:03 #8 type.registry] 
+New type domain.Bet
+
+[2022-04-26 19:03:03 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-04-26 19:03:03 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 19:03:03 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-04-26 19:03:03 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 19:03:03 #13 type.registry] 
+New type domain.User
+
+[2022-04-26 19:03:03 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 19:03:03 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-04-26 19:03:03 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 19:03:03 #17 type.registry] 
+New type domain.Transaction
+
+[2022-04-26 19:03:03 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-04-26 19:03:03 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 19:03:03 #20 type.registry] 
+New type domain.Admin
+
+[2022-04-26 19:03:03 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-04-26 19:03:03 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-04-26 19:03:03 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 19:05:29 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 8932@LAPTOP-PFPBTTRT
+
+[2022-04-26 19:05:30 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 19:05:30 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 19:05:30 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 19:05:30 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 19:05:30 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 19:05:30 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 19:05:30 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 19:05:30 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 20:19:24 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' has been recovered (tr. 9-9)
+
+[2022-04-26 20:19:24 #2 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 13840@LAPTOP-PFPBTTRT
+
+[2022-04-26 20:19:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 20:19:24 #4 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 20:19:24 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 20:19:24 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 20:19:24 #7 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 20:19:24 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 20:19:24 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 20:19:24 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 20:19:47 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 9032@LAPTOP-PFPBTTRT
+
+[2022-04-26 20:19:47 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 20:19:47 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 20:19:47 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 20:19:47 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 20:19:47 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 20:19:47 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 20:19:47 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 20:19:47 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 20:26:12 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' has been recovered (tr. 10-23)
+
+[2022-04-26 20:26:12 #2 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 1088@LAPTOP-PFPBTTRT
+
+[2022-04-26 20:26:12 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 20:26:12 #4 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 20:26:12 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 20:26:12 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 20:26:12 #7 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 20:26:13 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 20:26:13 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 20:26:13 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 21:15:16 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 3104@LAPTOP-PFPBTTRT
+
+[2022-04-26 21:15:16 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 21:15:16 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 21:15:16 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 21:15:16 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 21:15:16 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 21:15:16 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 21:15:16 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 21:15:16 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 21:24:29 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 5700@LAPTOP-PFPBTTRT
+
+[2022-04-26 21:24:29 #2 type.registry] 
+New type domain.Question
+
+[2022-04-26 21:24:29 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 21:24:29 #4 type.registry] 
+New type domain.Cuote
+
+[2022-04-26 21:24:29 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-04-26 21:24:29 #6 type.registry] 
+New type domain.Event
+
+[2022-04-26 21:24:29 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 21:24:29 #8 type.registry] 
+New type domain.Bet
+
+[2022-04-26 21:24:29 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-04-26 21:24:29 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 21:24:29 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-04-26 21:24:29 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 21:24:29 #13 type.registry] 
+New type domain.User
+
+[2022-04-26 21:24:29 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 21:24:29 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-04-26 21:24:29 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 21:24:29 #17 type.registry] 
+New type domain.Transaction
+
+[2022-04-26 21:24:29 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-04-26 21:24:29 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 21:24:29 #20 type.registry] 
+New type domain.Admin
+
+[2022-04-26 21:24:29 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-04-26 21:24:29 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-04-26 21:24:29 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 21:44:39 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 2084@LAPTOP-PFPBTTRT
+
+[2022-04-26 21:44:39 #2 type.registry] 
+New type domain.Question
+
+[2022-04-26 21:44:39 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 21:44:39 #4 type.registry] 
+New type domain.Cuote
+
+[2022-04-26 21:44:39 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-04-26 21:44:39 #6 type.registry] 
+New type domain.Event
+
+[2022-04-26 21:44:39 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 21:44:39 #8 type.registry] 
+New type domain.Bet
+
+[2022-04-26 21:44:39 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-04-26 21:44:39 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 21:44:39 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-04-26 21:44:39 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 21:44:39 #13 type.registry] 
+New type domain.User
+
+[2022-04-26 21:44:39 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 21:44:39 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-04-26 21:44:39 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 21:44:39 #17 type.registry] 
+New type domain.Transaction
+
+[2022-04-26 21:44:39 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-04-26 21:44:39 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 21:44:39 #20 type.registry] 
+New type domain.Admin
+
+[2022-04-26 21:44:39 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-04-26 21:44:39 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-04-26 21:44:39 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 21:47:27 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 2928@LAPTOP-PFPBTTRT
+
+[2022-04-26 21:47:27 #2 type.registry] 
+New type domain.Question
+
+[2022-04-26 21:47:27 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 21:47:27 #4 type.registry] 
+New type domain.Cuote
+
+[2022-04-26 21:47:27 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-04-26 21:47:27 #6 type.registry] 
+New type domain.Event
+
+[2022-04-26 21:47:27 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 21:47:27 #8 type.registry] 
+New type domain.Bet
+
+[2022-04-26 21:47:27 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-04-26 21:47:27 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 21:47:27 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-04-26 21:47:27 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 21:47:27 #13 type.registry] 
+New type domain.User
+
+[2022-04-26 21:47:27 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 21:47:27 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-04-26 21:47:27 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 21:47:27 #17 type.registry] 
+New type domain.Transaction
+
+[2022-04-26 21:47:27 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-04-26 21:47:27 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 21:47:27 #20 type.registry] 
+New type domain.Admin
+
+[2022-04-26 21:47:27 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-04-26 21:47:27 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-04-26 21:47:27 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 21:53:25 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 3756@LAPTOP-PFPBTTRT
+
+[2022-04-26 21:53:25 #2 type.registry] 
+New type domain.Question
+
+[2022-04-26 21:53:25 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 21:53:25 #4 type.registry] 
+New type domain.Cuote
+
+[2022-04-26 21:53:25 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-04-26 21:53:25 #6 type.registry] 
+New type domain.Event
+
+[2022-04-26 21:53:25 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 21:53:25 #8 type.registry] 
+New type domain.Bet
+
+[2022-04-26 21:53:25 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-04-26 21:53:25 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 21:53:25 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-04-26 21:53:25 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 21:53:25 #13 type.registry] 
+New type domain.User
+
+[2022-04-26 21:53:25 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 21:53:25 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-04-26 21:53:25 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 21:53:25 #17 type.registry] 
+New type domain.Transaction
+
+[2022-04-26 21:53:25 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-04-26 21:53:25 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 21:53:25 #20 type.registry] 
+New type domain.Admin
+
+[2022-04-26 21:53:25 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-04-26 21:53:25 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-04-26 21:53:25 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 21:53:52 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 8492@LAPTOP-PFPBTTRT
+
+[2022-04-26 21:53:53 #2 type.registry] 
+New type domain.Question
+
+[2022-04-26 21:53:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 21:53:53 #4 type.registry] 
+New type domain.Cuote
+
+[2022-04-26 21:53:53 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-04-26 21:53:53 #6 type.registry] 
+New type domain.Event
+
+[2022-04-26 21:53:53 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 21:53:53 #8 type.registry] 
+New type domain.Bet
+
+[2022-04-26 21:53:53 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-04-26 21:53:53 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 21:53:53 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-04-26 21:53:53 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 21:53:53 #13 type.registry] 
+New type domain.User
+
+[2022-04-26 21:53:53 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 21:53:53 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-04-26 21:53:53 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 21:53:53 #17 type.registry] 
+New type domain.Transaction
+
+[2022-04-26 21:53:53 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-04-26 21:53:53 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 21:53:53 #20 type.registry] 
+New type domain.Admin
+
+[2022-04-26 21:53:53 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-04-26 21:53:53 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-04-26 21:53:53 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 21:54:38 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 4160@LAPTOP-PFPBTTRT
+
+[2022-04-26 21:54:38 #2 type.registry] 
+New type domain.Question
+
+[2022-04-26 21:54:38 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 21:54:38 #4 type.registry] 
+New type domain.Cuote
+
+[2022-04-26 21:54:38 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-04-26 21:54:38 #6 type.registry] 
+New type domain.Event
+
+[2022-04-26 21:54:38 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 21:54:38 #8 type.registry] 
+New type domain.Bet
+
+[2022-04-26 21:54:38 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-04-26 21:54:38 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 21:54:38 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-04-26 21:54:38 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 21:54:38 #13 type.registry] 
+New type domain.User
+
+[2022-04-26 21:54:38 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 21:54:38 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-04-26 21:54:38 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 21:54:38 #17 type.registry] 
+New type domain.Transaction
+
+[2022-04-26 21:54:38 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-04-26 21:54:38 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 21:54:38 #20 type.registry] 
+New type domain.Admin
+
+[2022-04-26 21:54:38 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-04-26 21:54:38 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-04-26 21:54:38 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 21:55:56 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 13664@LAPTOP-PFPBTTRT
+
+[2022-04-26 21:55:56 #2 type.registry] 
+New type domain.Question
+
+[2022-04-26 21:55:56 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 21:55:56 #4 type.registry] 
+New type domain.Cuote
+
+[2022-04-26 21:55:56 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-04-26 21:55:56 #6 type.registry] 
+New type domain.Event
+
+[2022-04-26 21:55:56 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 21:55:56 #8 type.registry] 
+New type domain.Bet
+
+[2022-04-26 21:55:56 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-04-26 21:55:56 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 21:55:56 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-04-26 21:55:56 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 21:55:56 #13 type.registry] 
+New type domain.User
+
+[2022-04-26 21:55:56 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 21:55:56 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-04-26 21:55:56 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 21:55:56 #17 type.registry] 
+New type domain.Transaction
+
+[2022-04-26 21:55:56 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-04-26 21:55:56 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 21:55:56 #20 type.registry] 
+New type domain.Admin
+
+[2022-04-26 21:55:56 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-04-26 21:55:56 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-04-26 21:55:56 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 21:59:58 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 7684@LAPTOP-PFPBTTRT
+
+[2022-04-26 21:59:59 #2 type.registry] 
+New type domain.Question
+
+[2022-04-26 21:59:59 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 21:59:59 #4 type.registry] 
+New type domain.Cuote
+
+[2022-04-26 21:59:59 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-04-26 21:59:59 #6 type.registry] 
+New type domain.Event
+
+[2022-04-26 21:59:59 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 21:59:59 #8 type.registry] 
+New type domain.Bet
+
+[2022-04-26 21:59:59 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-04-26 21:59:59 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 21:59:59 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-04-26 21:59:59 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 21:59:59 #13 type.registry] 
+New type domain.User
+
+[2022-04-26 21:59:59 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 21:59:59 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-04-26 21:59:59 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 21:59:59 #17 type.registry] 
+New type domain.Transaction
+
+[2022-04-26 21:59:59 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-04-26 21:59:59 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 21:59:59 #20 type.registry] 
+New type domain.Admin
+
+[2022-04-26 21:59:59 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-04-26 21:59:59 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-04-26 21:59:59 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 22:00:45 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 9060@LAPTOP-PFPBTTRT
+
+[2022-04-26 22:00:45 #2 type.registry] 
+New type domain.Question
+
+[2022-04-26 22:00:45 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 22:00:45 #4 type.registry] 
+New type domain.Cuote
+
+[2022-04-26 22:00:45 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-04-26 22:00:45 #6 type.registry] 
+New type domain.Event
+
+[2022-04-26 22:00:45 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 22:00:45 #8 type.registry] 
+New type domain.Bet
+
+[2022-04-26 22:00:45 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-04-26 22:00:45 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 22:00:45 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-04-26 22:00:45 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 22:00:45 #13 type.registry] 
+New type domain.User
+
+[2022-04-26 22:00:45 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 22:00:45 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-04-26 22:00:45 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 22:00:45 #17 type.registry] 
+New type domain.Transaction
+
+[2022-04-26 22:00:45 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-04-26 22:00:45 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 22:00:45 #20 type.registry] 
+New type domain.Admin
+
+[2022-04-26 22:00:45 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-04-26 22:00:45 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-04-26 22:00:45 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 22:02:31 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 15248@LAPTOP-PFPBTTRT
+
+[2022-04-26 22:02:32 #2 type.registry] 
+New type domain.Question
+
+[2022-04-26 22:02:32 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 22:02:32 #4 type.registry] 
+New type domain.Cuote
+
+[2022-04-26 22:02:32 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-04-26 22:02:32 #6 type.registry] 
+New type domain.Event
+
+[2022-04-26 22:02:32 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 22:02:32 #8 type.registry] 
+New type domain.Bet
+
+[2022-04-26 22:02:32 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-04-26 22:02:32 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 22:02:32 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-04-26 22:02:32 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 22:02:32 #13 type.registry] 
+New type domain.User
+
+[2022-04-26 22:02:32 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 22:02:32 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-04-26 22:02:32 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 22:02:32 #17 type.registry] 
+New type domain.Transaction
+
+[2022-04-26 22:02:32 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-04-26 22:02:32 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 22:02:32 #20 type.registry] 
+New type domain.Admin
+
+[2022-04-26 22:02:32 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-04-26 22:02:32 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-04-26 22:02:32 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 22:04:21 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 9760@LAPTOP-PFPBTTRT
+
+[2022-04-26 22:04:21 #2 type.registry] 
+New type domain.Question
+
+[2022-04-26 22:04:21 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 22:04:21 #4 type.registry] 
+New type domain.Cuote
+
+[2022-04-26 22:04:21 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-04-26 22:04:21 #6 type.registry] 
+New type domain.Event
+
+[2022-04-26 22:04:21 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 22:04:21 #8 type.registry] 
+New type domain.Bet
+
+[2022-04-26 22:04:21 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-04-26 22:04:21 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 22:04:21 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-04-26 22:04:21 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 22:04:21 #13 type.registry] 
+New type domain.User
+
+[2022-04-26 22:04:21 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 22:04:21 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-04-26 22:04:21 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 22:04:21 #17 type.registry] 
+New type domain.Transaction
+
+[2022-04-26 22:04:21 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-04-26 22:04:21 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 22:04:21 #20 type.registry] 
+New type domain.Admin
+
+[2022-04-26 22:04:21 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-04-26 22:04:21 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-04-26 22:04:21 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-26 22:05:11 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 3880@LAPTOP-PFPBTTRT
+
+[2022-04-26 22:05:11 #2 type.registry] 
+New type domain.Question
+
+[2022-04-26 22:05:11 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-04-26 22:05:11 #4 type.registry] 
+New type domain.Cuote
+
+[2022-04-26 22:05:11 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-04-26 22:05:11 #6 type.registry] 
+New type domain.Event
+
+[2022-04-26 22:05:11 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-04-26 22:05:11 #8 type.registry] 
+New type domain.Bet
+
+[2022-04-26 22:05:11 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-04-26 22:05:11 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-04-26 22:05:11 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-04-26 22:05:11 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-04-26 22:05:11 #13 type.registry] 
+New type domain.User
+
+[2022-04-26 22:05:11 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-04-26 22:05:11 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-04-26 22:05:11 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-04-26 22:05:11 #17 type.registry] 
+New type domain.Transaction
+
+[2022-04-26 22:05:11 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-04-26 22:05:11 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-04-26 22:05:11 #20 type.registry] 
+New type domain.Admin
+
+[2022-04-26 22:05:11 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-04-26 22:05:11 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-04-26 22:05:11 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

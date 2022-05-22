@@ -1,0 +1,45 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-27 13:44:37 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 19432@LAPTOP-PFPBTTRT
+
+[2022-02-27 13:44:37 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-27 13:44:37 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-27 13:44:37 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-27 13:49:24 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 32@LAPTOP-PFPBTTRT
+
+[2022-02-27 13:49:24 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-27 13:49:24 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-27 13:49:24 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-27 13:50:07 #1 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 23-23)
+
+[2022-02-27 13:50:07 #2 store] 
+Database 'C:\Users\alejo\git\Bets21\src\main\resources\bets.temp' is opened by 15376@LAPTOP-PFPBTTRT
+
+[2022-02-27 13:50:07 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-27 13:50:07 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-27 13:50:07 #5 type] 
+Type domain.User is not enhanced.
+

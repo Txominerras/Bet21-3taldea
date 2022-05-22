@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-08 13:45:14 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 13744@LAPTOP-PFPBTTRT
+
+[2022-05-08 13:45:15 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-08 13:45:15 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-08 13:45:15 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-08 13:45:15 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-08 13:45:15 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-08 13:45:15 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-08 13:45:15 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-08 13:45:15 #9 type] 
+Type domain.Admin is not enhanced.
+

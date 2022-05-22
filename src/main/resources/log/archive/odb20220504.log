@@ -1,0 +1,1509 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 13:30:23 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 792@LAPTOP-PFPBTTRT
+
+[2022-05-04 13:30:23 #2 type.registry] 
+New type domain.Question
+
+[2022-05-04 13:30:23 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 13:30:23 #4 type.registry] 
+New type domain.Cuote
+
+[2022-05-04 13:30:23 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-05-04 13:30:23 #6 type.registry] 
+New type domain.Event
+
+[2022-05-04 13:30:23 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 13:30:23 #8 type.registry] 
+New type domain.Bet
+
+[2022-05-04 13:30:23 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-05-04 13:30:23 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 13:30:23 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-05-04 13:30:23 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 13:30:23 #13 type.registry] 
+New type domain.User
+
+[2022-05-04 13:30:23 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 13:30:23 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-05-04 13:30:23 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 13:30:23 #17 type.registry] 
+New type domain.Transaction
+
+[2022-05-04 13:30:23 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-05-04 13:30:23 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 13:30:23 #20 type.registry] 
+New type domain.Admin
+
+[2022-05-04 13:30:23 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-05-04 13:30:23 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-05-04 13:30:23 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 13:30:53 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-8)
+
+[2022-05-04 13:30:53 #2 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 16736@LAPTOP-PFPBTTRT
+
+[2022-05-04 13:30:53 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 13:30:53 #4 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 13:30:53 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 13:30:53 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 13:30:53 #7 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 13:30:53 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 13:30:53 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 13:30:53 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 13:32:47 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 14708@LAPTOP-PFPBTTRT
+
+[2022-05-04 13:32:47 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 13:32:47 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 13:32:47 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 13:32:47 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 13:32:47 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 13:32:47 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 13:32:47 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 13:32:47 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 14:09:35 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 2400@LAPTOP-PFPBTTRT
+
+[2022-05-04 14:09:35 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 14:09:35 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 14:09:35 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 14:09:35 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 14:09:35 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 14:09:35 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 14:09:35 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 14:09:35 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 14:28:45 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 12756@LAPTOP-PFPBTTRT
+
+[2022-05-04 14:28:46 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 14:28:46 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 14:28:46 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 14:28:46 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 14:28:46 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 14:28:46 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 14:28:46 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 14:28:46 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 14:35:02 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 8212@LAPTOP-PFPBTTRT
+
+[2022-05-04 14:35:02 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 14:35:02 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 14:35:02 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 14:35:02 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 14:35:02 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 14:35:02 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 14:35:02 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 14:35:02 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 16:20:30 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 17112@LAPTOP-PFPBTTRT
+
+[2022-05-04 16:20:30 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 16:20:30 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 16:20:30 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 16:20:30 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 16:20:30 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 16:20:30 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 16:20:30 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 16:20:30 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 17:33:11 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 2740@LAPTOP-PFPBTTRT
+
+[2022-05-04 17:33:12 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 17:33:12 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 17:33:12 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 17:33:12 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 17:33:12 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 17:33:12 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 17:33:12 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 17:33:12 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 17:36:10 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 11584@LAPTOP-PFPBTTRT
+
+[2022-05-04 17:36:10 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 17:36:10 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 17:36:10 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 17:36:10 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 17:36:10 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 17:36:10 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 17:36:10 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 17:36:10 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 17:37:38 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' has been recovered (tr. 17-20)
+
+[2022-05-04 17:37:39 #2 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 15728@LAPTOP-PFPBTTRT
+
+[2022-05-04 17:37:39 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 17:37:39 #4 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 17:37:39 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 17:37:39 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 17:37:39 #7 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 17:37:39 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 17:37:39 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 17:37:39 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 17:56:09 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' has been recovered (tr. 21-22)
+
+[2022-05-04 17:56:09 #2 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 7416@LAPTOP-PFPBTTRT
+
+[2022-05-04 17:56:09 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 17:56:09 #4 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 17:56:09 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 17:56:09 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 17:56:09 #7 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 17:56:09 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 17:56:09 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 17:56:09 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 19:09:27 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' has been recovered (tr. 23-24)
+
+[2022-05-04 19:09:27 #2 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 9968@LAPTOP-PFPBTTRT
+
+[2022-05-04 19:09:27 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 19:09:27 #4 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 19:09:27 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 19:09:27 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 19:09:27 #7 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 19:09:27 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 19:09:27 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 19:09:27 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 19:12:18 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' has been recovered (tr. 25-26)
+
+[2022-05-04 19:12:18 #2 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 13120@LAPTOP-PFPBTTRT
+
+[2022-05-04 19:12:18 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 19:12:18 #4 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 19:12:18 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 19:12:18 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 19:12:18 #7 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 19:12:18 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 19:12:18 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 19:12:18 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 19:18:34 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 10768@LAPTOP-PFPBTTRT
+
+[2022-05-04 19:18:35 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 19:18:35 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 19:18:35 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 19:18:35 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 19:18:35 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 19:18:35 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 19:18:35 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 19:18:35 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 19:21:55 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 11392@LAPTOP-PFPBTTRT
+
+[2022-05-04 19:21:55 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 19:21:55 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 19:21:55 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 19:21:55 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 19:21:55 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 19:21:55 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 19:21:55 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 19:21:55 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 19:22:51 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 4268@LAPTOP-PFPBTTRT
+
+[2022-05-04 19:22:52 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 19:22:52 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 19:22:52 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 19:22:52 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 19:22:52 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 19:22:52 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 19:22:52 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 19:22:52 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 19:23:11 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' has been recovered (tr. 35-35)
+
+[2022-05-04 19:23:11 #2 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 6224@LAPTOP-PFPBTTRT
+
+[2022-05-04 19:23:12 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 19:23:12 #4 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 19:23:12 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 19:23:12 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 19:23:12 #7 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 19:23:12 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 19:23:12 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 19:23:12 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:02:21 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 18940@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:02:21 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:02:21 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:02:21 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:02:21 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:02:21 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:02:21 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:02:21 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:02:21 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:03:25 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 8756@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:03:26 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:03:26 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:03:26 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:03:26 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:03:26 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:03:26 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:03:26 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:03:26 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:07:08 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 16164@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:07:08 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:07:08 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:07:08 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:07:08 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:07:08 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:07:08 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:07:08 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:07:08 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:08:18 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 4996@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:08:18 #2 type.registry] 
+New type domain.Question
+
+[2022-05-04 20:08:18 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:08:18 #4 type.registry] 
+New type domain.Cuote
+
+[2022-05-04 20:08:18 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-05-04 20:08:18 #6 type.registry] 
+New type domain.Event
+
+[2022-05-04 20:08:18 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:08:18 #8 type.registry] 
+New type domain.Bet
+
+[2022-05-04 20:08:18 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-05-04 20:08:18 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:08:18 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-05-04 20:08:18 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:08:18 #13 type.registry] 
+New type domain.User
+
+[2022-05-04 20:08:18 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:08:18 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-05-04 20:08:18 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:08:18 #17 type.registry] 
+New type domain.Transaction
+
+[2022-05-04 20:08:18 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-05-04 20:08:18 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:08:18 #20 type.registry] 
+New type domain.Admin
+
+[2022-05-04 20:08:18 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-05-04 20:08:18 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-05-04 20:08:18 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:12:36 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 19676@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:12:36 #2 type.registry] 
+New type domain.Question
+
+[2022-05-04 20:12:36 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:12:36 #4 type.registry] 
+New type domain.Cuote
+
+[2022-05-04 20:12:36 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-05-04 20:12:36 #6 type.registry] 
+New type domain.Event
+
+[2022-05-04 20:12:36 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:12:36 #8 type.registry] 
+New type domain.Bet
+
+[2022-05-04 20:12:36 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-05-04 20:12:36 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:12:36 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-05-04 20:12:36 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:12:36 #13 type.registry] 
+New type domain.User
+
+[2022-05-04 20:12:36 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:12:36 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-05-04 20:12:36 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:12:36 #17 type.registry] 
+New type domain.Transaction
+
+[2022-05-04 20:12:36 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-05-04 20:12:36 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:12:36 #20 type.registry] 
+New type domain.Admin
+
+[2022-05-04 20:12:36 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-05-04 20:12:36 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-05-04 20:12:36 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:12:55 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-8)
+
+[2022-05-04 20:12:55 #2 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 19048@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:12:55 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:12:55 #4 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:12:55 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:12:55 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:12:55 #7 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:12:55 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:12:55 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:12:55 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:13:01 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 13560@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:13:01 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:13:01 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:13:01 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:13:01 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:13:01 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:13:01 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:13:01 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:13:01 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:22:39 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 8348@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:22:40 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:22:40 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:22:40 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:22:40 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:22:40 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:22:40 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:22:40 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:22:40 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:24:23 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' has been recovered (tr. 12-15)
+
+[2022-05-04 20:24:23 #2 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 7876@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:24:23 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:24:23 #4 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:24:23 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:24:23 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:24:23 #7 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:24:23 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:24:23 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:24:23 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:25:42 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 18472@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:25:42 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:25:42 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:25:42 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:25:42 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:25:42 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:25:42 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:25:42 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:25:42 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:26:29 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 11860@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:26:29 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:26:29 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:26:29 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:26:29 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:26:29 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:26:29 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:26:29 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:26:29 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:28:51 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' has been recovered (tr. 16-17)
+
+[2022-05-04 20:28:51 #2 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 15264@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:28:51 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:28:51 #4 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:28:51 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:28:51 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:28:51 #7 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:28:51 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:28:51 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:28:51 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:29:51 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 19300@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:29:51 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:29:51 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:29:51 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:29:51 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:29:51 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:29:51 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:29:51 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:29:51 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:32:40 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 16692@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:32:40 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:32:40 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:32:40 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:32:40 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:32:40 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:32:40 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:32:40 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:32:40 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:36:27 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 16368@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:36:27 #2 type.registry] 
+New type domain.Question
+
+[2022-05-04 20:36:27 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:36:27 #4 type.registry] 
+New type domain.Cuote
+
+[2022-05-04 20:36:27 #5 type.registry] 
+New type java.util.ArrayList<domain.Cuote>
+
+[2022-05-04 20:36:27 #6 type.registry] 
+New type domain.Event
+
+[2022-05-04 20:36:27 #7 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:36:27 #8 type.registry] 
+New type domain.Bet
+
+[2022-05-04 20:36:27 #9 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-05-04 20:36:27 #10 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:36:27 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-05-04 20:36:27 #12 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:36:27 #13 type.registry] 
+New type domain.User
+
+[2022-05-04 20:36:27 #14 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:36:27 #15 type.registry] 
+New type domain.NormalUser
+
+[2022-05-04 20:36:27 #16 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:36:27 #17 type.registry] 
+New type domain.Transaction
+
+[2022-05-04 20:36:27 #18 type.registry] 
+New type java.util.ArrayList<domain.Transaction>
+
+[2022-05-04 20:36:27 #19 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:36:27 #20 type.registry] 
+New type domain.Admin
+
+[2022-05-04 20:36:27 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2022-05-04 20:36:27 #22 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-05-04 20:36:27 #23 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:44:30 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 15852@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:44:31 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:44:31 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:44:31 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:44:31 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:44:31 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:44:31 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:44:31 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:44:31 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:45:53 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 12008@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:45:53 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:45:53 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:45:53 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:45:53 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:45:53 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:45:53 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:45:53 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:45:53 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:48:21 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 6248@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:48:22 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:48:22 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:48:22 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:48:22 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:48:22 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:48:22 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:48:22 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:48:22 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:50:54 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 8324@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:50:54 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:50:54 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:50:54 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:50:54 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:50:54 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:50:54 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:50:54 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:50:54 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:53:54 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 13656@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:53:54 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:53:54 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:53:54 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:53:54 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:53:54 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:53:54 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:53:54 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:53:54 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 20:58:29 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 4224@LAPTOP-PFPBTTRT
+
+[2022-05-04 20:58:29 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 20:58:29 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 20:58:29 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 20:58:29 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 20:58:29 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 20:58:29 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 20:58:29 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 20:58:29 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 21:03:55 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 19796@LAPTOP-PFPBTTRT
+
+[2022-05-04 21:03:56 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 21:03:56 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 21:03:56 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 21:03:56 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 21:03:56 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 21:03:56 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 21:03:56 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 21:03:56 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 21:06:00 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' has been recovered (tr. 30-30)
+
+[2022-05-04 21:06:00 #2 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 7412@LAPTOP-PFPBTTRT
+
+[2022-05-04 21:06:00 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 21:06:00 #4 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 21:06:00 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 21:06:00 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 21:06:00 #7 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 21:06:00 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 21:06:00 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 21:06:00 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 21:13:48 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 9252@LAPTOP-PFPBTTRT
+
+[2022-05-04 21:13:48 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 21:13:48 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 21:13:48 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 21:13:48 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 21:13:48 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 21:13:48 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 21:13:48 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 21:13:48 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 21:14:57 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 19956@LAPTOP-PFPBTTRT
+
+[2022-05-04 21:14:57 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 21:14:57 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 21:14:57 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 21:14:57 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 21:14:57 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 21:14:57 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 21:14:57 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 21:14:57 #9 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 21:32:36 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' has been recovered (tr. 31-32)
+
+[2022-05-04 21:32:36 #2 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 17832@LAPTOP-PFPBTTRT
+
+[2022-05-04 21:32:36 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 21:32:36 #4 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 21:32:36 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 21:32:36 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 21:32:36 #7 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 21:32:36 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 21:32:36 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 21:32:36 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 21:34:44 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' has been recovered (tr. 33-34)
+
+[2022-05-04 21:34:44 #2 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 5040@LAPTOP-PFPBTTRT
+
+[2022-05-04 21:34:44 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 21:34:44 #4 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 21:34:44 #5 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 21:34:44 #6 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 21:34:44 #7 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 21:34:44 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 21:34:44 #9 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 21:34:44 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-04 21:36:31 #1 store] 
+Database 'C:\Users\alejo\git\Bet21_3iterazioa\Bets21\src\main\resources\bets.temp' is opened by 10056@LAPTOP-PFPBTTRT
+
+[2022-05-04 21:36:31 #2 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-04 21:36:31 #3 type] 
+Type domain.Cuote is not enhanced.
+
+[2022-05-04 21:36:31 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-04 21:36:31 #5 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-04 21:36:31 #6 type] 
+Type domain.User is not enhanced.
+
+[2022-05-04 21:36:32 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2022-05-04 21:36:32 #8 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-05-04 21:36:32 #9 type] 
+Type domain.Admin is not enhanced.
+
